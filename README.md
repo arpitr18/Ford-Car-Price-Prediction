@@ -380,9 +380,9 @@ For issues or questions, please open an [GitHub Issue](https://github.com/YOUR_U
 
 ## 📞 Contact
 
-- **Author:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- **Author:** Arpit Rai
+- **Email:** arpitrai1809@gmail.com
+- **GitHub:** [@arpitr18](https://github.com/arpitr18)
 
 ---
 
