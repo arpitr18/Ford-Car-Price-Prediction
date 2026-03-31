@@ -1,0 +1,24 @@
+@base_url = http://127.0.0.1:8000
+
+# API endpoints
+GET {{base_url}}/health
+
+###
+GET {{base_url}}/categories
+
+
+###
+POST {{base_url}}/predict
+Content-Type: application/json
+
+{
+	"model": "Fiesta",
+	"year": 2017,
+	"transmission": "Manual",
+	"mileage": 15735,
+	"fuelType": "Petrol",
+	"tax": 150,
+	"mpg": 57.7,
+	"engineSize": 1.0
+}
+
